@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Sofa",
+      "value": 1500
+    },
+    {
+      "name": "Chair",
+      "value": 300
+    },
+    {
+      "name": "Table",
+      "value": 800
+    },
+    {
+      "name": "Lamp",
+      "value": 150
+    },
+    {
+      "name": "Bookshelf",
+      "value": 600
+    }
+  ]
+  
